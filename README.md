@@ -11,3 +11,9 @@ study deep learning and commit it
 
 - 3_object_detection.ipynb
 
+
+<pytorch notebooks>
+  
+- 4_vgg16.ipynb
+
+- 4_vgg16_with_class.ipynb
