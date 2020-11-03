@@ -1,6 +1,6 @@
 # DeepLearning-Study
 
-![image](https://img.shields.io/badge/language-python-blue?style=flat-square&logo=jupyter notebook)
+![image](https://img.shields.io/badge/language-python-blue?style=flat-square&logo=Jupyter Notebook)
 ![image](https://img.shields.io/badge/Latest%20Update-2020/09/19-9cf?style=flat-square)
 [![HitCount](http://hits.dwyl.com/HanNayeoniee/Masked-Face-Authentication.svg)](http://hits.dwyl.com/HanNayeoniee/Masked-Face-Authentication)
 
