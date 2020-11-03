@@ -8,7 +8,9 @@ study deep learning and commit it
 ---
 ## ◼ Keras Notebooks
   
-- MNIST-digit.ipynb
+- [MNIST-digit.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/MNIST-digit.ipynb)
+
+- [Na Yeon Han(HanNayeoniee)](https://github.com/HanNayeoniee)
 
 - 1_mnist_LeNet-5.ipynb
 
