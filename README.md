@@ -10,7 +10,7 @@ study deep learning and commit it
 ## ◼ Keras Notebooks
   
 - [MNIST-digit.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/MNIST-digit.ipynb)
-
+  ㄴ digit recognizer of MNIST dataset
 - 1_mnist_LeNet-5.ipynb
 
 - 2_fruits.ipynb
