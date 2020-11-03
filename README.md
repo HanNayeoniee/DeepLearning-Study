@@ -1,7 +1,12 @@
 # DeepLearning-Study
 study deep learning and commit it
 
-<keras notebooks>
+![image](https://img.shields.io/badge/language-python-blue?style=flat-square&logo=python)
+![image](https://img.shields.io/badge/Latest%20Update-2020/09/19-9cf?style=flat-square)
+[![HitCount](http://hits.dwyl.com/HanNayeoniee/Masked-Face-Authentication.svg)](http://hits.dwyl.com/HanNayeoniee/Masked-Face-Authentication)
+
+---
+## ◼ Keras Notebooks
   
 - MNIST-digit.ipynb
 
@@ -12,7 +17,8 @@ study deep learning and commit it
 - 3_object_detection.ipynb
 
 
-<pytorch notebooks>
+---
+## ◼ Pytorch Notebooks
   
 - 4_vgg16.ipynb
 
