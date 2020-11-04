@@ -26,6 +26,10 @@ study deep learning and commit it
 ---
 ## ◼ Pytorch Notebooks
   
-- 4_vgg16.ipynb
+- [4_vgg16.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/4_vgg16.ipynb)
 
-- 4_vgg16_with_class.ipynb
+	ㄴ VGG-16 model using Sequential
+- [4_vgg16_with_class.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/4_vgg16_with_class.ipynb)
+
+	ㄴ VGG-16 model with modularization
+
