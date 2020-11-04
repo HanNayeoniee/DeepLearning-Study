@@ -12,12 +12,16 @@ study deep learning and commit it
 - [MNIST-digit.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/MNIST-digit.ipynb)
 
   ㄴ digit recognizer of MNIST dataset
-- 1_mnist_LeNet-5.ipynb
+- [1_mnist_LeNet-5.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/1_mnist_LeNet-5.ipynb)
 
-- 2_fruits.ipynb
+	ㄴ digit recognizer of MNIST dataset
 
-- 3_object_detection.ipynb
+- [2_fruits.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/2_fruits.ipynb)
 
+	ㄴ fruits classification (apple, orange, banana)
+- [3_object_detection.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/3_object_detection.ipynb)
+
+	ㄴ object detection
 
 ---
 ## ◼ Pytorch Notebooks
