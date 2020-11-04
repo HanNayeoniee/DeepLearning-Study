@@ -36,3 +36,6 @@ study deep learning and commit it
 ---
 ## ◼ Basic Python Notebooks
 - [basic_python.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/basic_python.ipynb)
+	ㄴ basic python stuffs
+	ㄴ inheritance
+	ㄴ overriding
