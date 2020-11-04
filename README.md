@@ -33,3 +33,6 @@ study deep learning and commit it
 
 	ㄴ VGG-16 model with modularization
 
+---
+## ◼ Basic Python Notebooks
+- [basic_python.ipynb](https://github.com/HanNayeoniee/DeepLearning-Study/blob/master/basic_python.ipynb)
